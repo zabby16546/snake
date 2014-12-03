@@ -1,0 +1,526 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"WIN",
+				"WINDOW_HEIGHT"
+			],
+			[
+				"WIND",
+				"WINDOW_WIDTH"
+			],
+			[
+				"seg",
+				"segments"
+			],
+			[
+				"sf",
+				"sfinclude"
+			],
+			[
+				"guessinggame",
+				"guessinggame"
+			],
+			[
+				"ch",
+				"chrono"
+			],
+			[
+				"Gue",
+				"GuessingGame"
+			],
+			[
+				"game",
+				"gameChoice"
+			],
+			[
+				"gam",
+				"gameMain"
+			],
+			[
+				"l",
+				"lsfml-graphics"
+			],
+			[
+				"ocean",
+				"oceanWidth"
+			],
+			[
+				"shots",
+				"shotsRow"
+			],
+			[
+				"Oce",
+				"oceanLength"
+			],
+			[
+				"oce",
+				"oceanLength"
+			],
+			[
+				"print",
+				"printLetters"
+			],
+			[
+				"user",
+				"userNum"
+			],
+			[
+				"char",
+				"charConvert"
+			],
+			[
+				"var",
+				"varArray"
+			],
+			[
+				"array",
+				"arraySize"
+			],
+			[
+				"arr",
+				"arraySize"
+			],
+			[
+				"arra",
+				"arraySize"
+			],
+			[
+				"us",
+				"userNum"
+			],
+			[
+				"in",
+				"include"
+			],
+			[
+				"s",
+				"std"
+			],
+			[
+				"str",
+				"strToInt"
+			],
+			[
+				"read",
+				"readInfo"
+			],
+			[
+				"file",
+				"filedir"
+			],
+			[
+				"MAP_",
+				"MAP_HEIGHT"
+			],
+			[
+				"MA",
+				"MAP_WIDTH"
+			],
+			[
+				"c",
+				"column"
+			],
+			[
+				"MAP",
+				"MAP_WIDTH"
+			],
+			[
+				"M",
+				"MAP_WIDTH"
+			],
+			[
+				"first",
+				"firstthing"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "main.cpp",
+			"settings":
+			{
+				"buffer_size": 1459,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "snake.cpp",
+			"settings":
+			{
+				"buffer_size": 2102,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "snake.h",
+			"settings":
+			{
+				"buffer_size": 920,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "Packages/User/c++makefile.sublime-build",
+	"command_palette":
+	{
+		"height": 380.0,
+		"selected_items":
+		[
+			[
+				"pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"clang",
+				"Preferences: SublimeClang Settings – Default"
+			],
+			[
+				"render",
+				"Snippet: renderwindow"
+			],
+			[
+				"Linter",
+				"SublimeLinter: Extract Annotations"
+			],
+			[
+				"SublimeLin",
+				"SublimeLinter: Extract Annotations"
+			],
+			[
+				"open",
+				"Preference Helper: Open *.sublime-settings"
+			],
+			[
+				"",
+				"Preferences: Browse Packages"
+			],
+			[
+				"makefi",
+				"Set Syntax: Makefile Improved"
+			],
+			[
+				"set syntax",
+				"Set Syntax: Makefile Improved"
+			],
+			[
+				"set syntax c+",
+				"Set Syntax: C++"
+			],
+			[
+				"package",
+				"Package Control: List Packages"
+			],
+			[
+				"make",
+				"Set Syntax: Makefile Improved"
+			],
+			[
+				"Packa",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Remove Package"
+			],
+			[
+				"prefer",
+				"Preference Helper: Open *.sublime-settings"
+			],
+			[
+				"packae",
+				"Package Control: List Packages"
+			],
+			[
+				"makefile",
+				"Set Syntax: Makefile"
+			],
+			[
+				"set syntax:make",
+				"Set Syntax: Makefile"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 46.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Josh/Desktop/Snake/source.makefile",
+		"/C/Users/Josh/Desktop/LOPE 11.24.14.txt",
+		"/C/Users/Josh/Desktop/Polymorphism/source.makefile",
+		"/C/Users/Josh/Desktop/Polymorphism/blockersmylove.cpp",
+		"/C/Users/Owner/Desktop/Lab13_MultArrays/source.makefile",
+		"/C/Users/Owner/Desktop/Software/Sublime Text 2.0.2 x64/Data/Packages/SublimeClang/SublimeClang.sublime-settings",
+		"/C/Users/Owner/Desktop/Blox n Zabs plsno(heart)/gameshit.cpp",
+		"/C/Users/Owner/Desktop/Blox n Zabs plsno(heart)/compile.bat",
+		"/C/Users/Owner/Desktop/Projects/C++/Lab10_VarArray/source.makefile",
+		"/C/Users/Owner/Desktop/Lab10_VarArray/source.c++",
+		"/C/Users/Owner/Desktop/Software/Sublime Text 2.0.2 x64/Data/Packages/User/SublimeLinter.sublime-settings",
+		"/C/Users/Owner/Desktop/Lab10_VarArray/compile.bat",
+		"/C/Users/Owner/Desktop/Software/Sublime Text 2.0.2 x64/Data/Packages/User/c++makefile.sublime-build",
+		"/C/Users/Owner/Desktop/Software/Sublime Text 2.0.2 x64/Data/Packages/MakeCommands/README.rst",
+		"/C/Users/Owner/Desktop/Software/Sublime Text 2.0.2 x64/Data/Packages/Makefile/Makefile.sublime-settings",
+		"/C/Users/Owner/Desktop/Software/Sublime Text 2.0.2 x64/Data/Packages/MakeCommands\\Preferences.sublime-settings",
+		"/C/Users/Owner/Desktop/Lab10_VarArray/makeit.make",
+		"/C/Users/Owner/Desktop/Lab10_VarArray/source.mak",
+		"/C/Users/Owner/Desktop/Software/Sublime Text 2.0.2 x64/Data/Packages/Makefile/Miscellaneous.tmPreferences",
+		"/C/Users/Owner/Desktop/Lab9_Test/source.makefile",
+		"/C/Users/Owner/Desktop/Lab9_Test/compile.bat",
+		"/C/Users/Owner/Desktop/Lab8_Game/battleship.h",
+		"/C/Users/Owner/Desktop/Lab8_Test/battleship.h",
+		"/C/Users/Owner/Desktop/Lab8_Test/ship.makefile",
+		"/C/Users/Owner/Desktop/Lab8_Test/makefile.makefile",
+		"/C/Users/Owner/Desktop/test.cpp",
+		"/C/Users/Owner/Desktop/Lab7_File/filewrite.cpp",
+		"/C/Users/Owner/Desktop/Lab7_File/input.txt",
+		"/C/Users/Owner/Desktop/isto.cpp",
+		"/C/Users/Owner/Desktop/Lab7_Check/writecheck.cpp",
+		"/C/Users/Owner/Desktop/Software/Sublime Text 2.0.2 x64/Data/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/Owner/Desktop/Software/Sublime Text 2.0.2 x64/Data/Packages/User/C++.sublime-settings",
+		"/C/Users/Owner/Desktop/arrayinarray.cpp",
+		"/C/Users/Owner/Desktop/classesWOO.cpp",
+		"/C/Users/Owner/Desktop/Projects/C++/makefiles n/firstthing.cpp",
+		"/C/Users/Owner/Desktop/Projects/C++/makefiles n/gay.cpp",
+		"/C/Users/Owner/Desktop/Lab6_Swap/swapnumbers.cpp",
+		"/C/Users/Owner/Desktop/lottery.cpp",
+		"/C/Users/Owner/Desktop/firsttest/gay.cpp",
+		"/C/Users/Owner/Desktop/firsttest/firstthing.cpp",
+		"/C/Users/Owner/Desktop/thing.cpp",
+		"/C/Users/Owner/Desktop/firsttest/compile.bat",
+		"/C/Users/Owner/Desktop/Sublime Text 2.0.2 x64/Data/Packages/User/Plain text.sublime-settings"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"i",
+			"timer",
+			");\n",
+			"skele",
+			"arraySize",
+			"FIELD_SIZE",
+			"h",
+			"o",
+			"pick",
+			"pick()",
+			"pick",
+			"filedir",
+			"cout"
+		],
+		"highlight": true,
+		"in_selection": true,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"k",
+			"fieldSize",
+			"fout"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "main.cpp",
+					"settings":
+					{
+						"buffer_size": 1459,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1175,
+								1175
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 383.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "snake.cpp",
+					"settings":
+					{
+						"buffer_size": 2102,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1686,
+								1629
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 730.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 2,
+					"file": "snake.h",
+					"settings":
+					{
+						"buffer_size": 920,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								831,
+								831
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.clang":
+	{
+		"height": 100.0
+	},
+	"output.exec":
+	{
+		"height": 151.0
+	},
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/C/Users/Josh/Desktop/Snake/snake.h"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}
