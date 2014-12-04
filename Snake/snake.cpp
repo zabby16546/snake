@@ -38,7 +38,7 @@ void Snake::moveSimulate(sf::Clock &timer){
 
 	if(moving == true && lap > 200){
 
-		for(int k = 1; k < segments.size(); ++k){
+		for(int k = segments.size(); k >= 1; --k){
 			segments[k].x = segments[k-1].x;
 			segments[k].y = segments[k-1].y;
 			cout << segments[k].x << " " << segments[k].y;
